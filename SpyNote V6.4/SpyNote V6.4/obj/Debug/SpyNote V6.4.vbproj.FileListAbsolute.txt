@@ -1,0 +1,96 @@
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\bin\Debug\SpyNote V6.4.exe.config
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\bin\Debug\SpyNote V6.4.exe
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\bin\Debug\SpyNote V6.4.pdb
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\bin\Debug\SpyNote V6.4.xml
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote V6.4.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Resources.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote V6.4.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote V6.4.exe
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote V6.4.xml
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote V6.4.pdb
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AboutSpyNote.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AccountManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AddFiles.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Apps.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.aProperties.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Build.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CallPhone.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CallsManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CameraManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Chat.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ContactsManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ContactsWrite.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.devices.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.DownloadManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FileBox.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.File_Manager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.fOptions.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FSettings.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FUN.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.JV.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.key_logger.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.LocationManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.LogoSN.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.MainSpyNote.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Microphone.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.NameChat.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Notepad.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Notice1.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.OpenPort.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.REhost.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.restPass.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.SelectPort.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.SMSManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Spell.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Terminal.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Testconnection.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ZipFiles.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4\SpyNote V6.4\bin\Debug\CoreAudioApi.dll
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\bin\Debug\SpyNote V6.4.exe.config
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\bin\Debug\SpyNote V6.4.exe
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\bin\Debug\SpyNote V6.4.pdb
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\bin\Debug\SpyNote V6.4.xml
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\bin\Debug\CoreAudioApi.dll
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote V6.4.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Resources.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AboutSpyNote.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AccountManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.AddFiles.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Apps.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.aProperties.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Build.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CallPhone.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CallsManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.CameraManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Chat.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ContactsManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ContactsWrite.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.devices.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.DownloadManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FileBox.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.File_Manager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.fOptions.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FSettings.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.FUN.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.JV.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.key_logger.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.LocationManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.LogoSN.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.MainSpyNote.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Microphone.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.NameChat.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Notepad.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Notice1.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.OpenPort.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.REhost.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.restPass.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.SelectPort.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.SMSManager.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Spell.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Terminal.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.Testconnection.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote_V6._4.ZipFiles.resources
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote V6.4.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote V6.4.exe
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote V6.4.xml
+C:\Users\Samad.Dz\Desktop\SpyNote V6.4 - Copy\SpyNote V6.4\obj\Debug\SpyNote V6.4.pdb

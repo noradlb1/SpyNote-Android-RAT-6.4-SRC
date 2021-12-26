@@ -1,0 +1,78 @@
+root@ su
+-q
+-a
+-z
+-w
+-s
+-x
+-e
+-d
+-c
+-r
+-f
+-v
+-t
+-g
+-b
+-y
+-h
+-n
+-u
+-j
+-m
+-i
+-k
+-o
+-l
+-p
+ls
+cat
+remount
+start
+ip
+addr
+grep
+ps
+inet
+am
+mount
+date
+netstat -i
+netstat
+netcfg
+shell
+ifconfig
+wlan0
+ip neigh
+ip -6 neigh
+reboot
+now
+ip neighbour 
+strace
+top
+pm
+install
+show
+route
+df
+--time
+netstat -n
+reboot now
+reboot -p
+df
+-limit
+cat /proc/net/arp
+cat /proc/net/wireless
+cat /proc/net/dev
+getprop
+kill -9 pid
+toolbox
+toolbox ps -p -P -x -c
+top -n 1 -d 1
+ps -p -P -x -c
+root@ pm install -r /sdcard/app.apk
+ip addr show
+ip route show
+root@ /system/bin/screencap -p /sdcard/picture.png
+root@ screenrecord --time-limit 10 /sdcard/video.mp4
+root@am start -n packagename/.activityname

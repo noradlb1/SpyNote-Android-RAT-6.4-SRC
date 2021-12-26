@@ -1,0 +1,11 @@
+C:\Users\Samad.Dz\Desktop\SL\SL\bin\Debug\SL.exe.config
+C:\Users\Samad.Dz\Desktop\SL\SL\bin\Debug\SL.exe
+C:\Users\Samad.Dz\Desktop\SL\SL\bin\Debug\SL.pdb
+C:\Users\Samad.Dz\Desktop\SL\SL\bin\Debug\SL.xml
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.vbprojResolveAssemblyReference.cache
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.Resources.resources
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.vbproj.GenerateResource.Cache
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.exe
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.xml
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.pdb
+C:\Users\Samad.Dz\Desktop\SL\SL\obj\Debug\SL.Build_client.resources
